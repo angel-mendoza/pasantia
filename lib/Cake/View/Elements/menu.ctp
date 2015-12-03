@@ -4,23 +4,16 @@
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
-        <span class="icon-bar"></span>                        
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                       
       </button>
       <a class="navbar-brand" href="#">Alcaldia Sucre</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="users"> <?php echo $current_user['nombres']." ".$current_user['apellidos'] ?></a></li>
-        <li class="dropdown">
-          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Page 1 <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="#">Page 1-1</a></li>
-            <li><a href="#">Page 1-2</a></li>
-            <li><a href="#">Page 1-3</a></li>
-          </ul>
-        </li>
-        <li>
-			 <?php echo $this->Html->link(__('Contribuyente'), array('controller' => 'contribuyentes' , 'action' => 'index')); ?>
+        <li class="active"><a href="users"> <?php echo $current_user['nombres']." ".$current_user['apellidos'] ?></a>
         </li>
         <li>
 			<?php echo $this->Html->link(__('Inmueble'), array('controller' => 'inmuebles' , 'action' => 'index')); ?>
@@ -29,8 +22,12 @@
 			<?php echo $this->Html->link(__('Empresa'), array('controller' => 'empresas' , 'action' => 'index')); ?>
         </li>
         <li>
-          <?php echo $this->Html->link(__('Usuario'), array('controller' => 'users' , 'action' => 'index')); ?>
+      <?php echo $this->Html->link(__('Solicitud'), array('controller' => 'requests' , 'action' => 'index')); ?>
         </li>
+        <li>
+      <?php echo $this->Html->link(__('Recuados'), array('controller' => 'collections' , 'action' => 'index')); ?>
+        </li>
+
 
 
       </ul>
@@ -42,6 +39,5 @@
     </div>
   </div>
 </nav>
-
 
 

@@ -1,24 +1,23 @@
 <div class="users view">
 <h2><?php echo __('User'); ?></h2>
 	<dl>
-		<dt><?php echo __('Id'); ?></dt>
+	<?php if(isset($current_user) && $current_user['role']=='admin'){ ?>
+
+ 		<dt><?php echo __('Id'); ?></dt>
 		<dd>
 			<?php echo h($user['User']['id']); ?>
-			&nbsp;
-		</dd>
-		<dt><?php echo __('Username'); ?></dt>
-		<dd>
-			<?php echo h($user['User']['username']); ?>
-			&nbsp;
-		</dd>
-		<dt><?php echo __('Password'); ?></dt>
-		<dd>
-			<?php echo h($user['User']['password']); ?>
 			&nbsp;
 		</dd>
 		<dt><?php echo __('Role'); ?></dt>
 		<dd>
 			<?php echo h($user['User']['role']); ?>
+			&nbsp;
+		</dd> 
+	<?php } ?>
+
+		<dt><?php echo __('Correo'); ?></dt>
+		<dd>
+			<?php echo h($user['User']['username']); ?>
 			&nbsp;
 		</dd>
 		<dt><?php echo __('Nombres'); ?></dt>
@@ -41,9 +40,10 @@
 			<?php echo h($user['User']['telefono']); ?>
 			&nbsp;
 		</dd>
+		<?php if(isset($current_user) && $current_user['role']=='admin'){ ?>
 		<dt><?php echo __('Created'); ?></dt>
 		<dd>
-			<?php echo h($user['User']['created']); ?>
+		<?php echo h($user['User']['created']); ?>
 			&nbsp;
 		</dd>
 		<dt><?php echo __('Modified'); ?></dt>
@@ -51,6 +51,7 @@
 			<?php echo h($user['User']['modified']); ?>
 			&nbsp;
 		</dd>
+		<?php } ?>
 	</dl>
 </div>
 <div class="actions">

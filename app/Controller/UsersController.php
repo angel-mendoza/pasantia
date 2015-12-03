@@ -27,12 +27,10 @@ class UsersController extends AppController {
 	public function index($id = null) {
 		$role = $this->Auth->user('role'); 
 		$id = $this->Auth->user('id'); 
+
 		if ($role == "admin"){
 			$this->User->recursive = 0;
 			$this->set('users', $this->Paginator->paginate());
-		
-				
-			
 		}else{
 			//if (!$this->User->exists($id)) {
 			//	throw new NotFoundException(__('Invalid user'));
