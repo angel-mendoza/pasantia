@@ -3,10 +3,13 @@
 	<fieldset>
 		<legend><?php echo __('Edit User'); ?></legend>
 	<?php
-		echo $this->Form->input('id');
-		echo $this->Form->input('username');
-		echo $this->Form->input('password');
-		echo $this->Form->input('role');
+		//echo $this->Form->input('id');
+		//echo $this->Form->input('username');
+		//echo $this->Form->input('password');
+		if (isset($current_user) && $current_user['role']=='admin') {
+			echo $this->Form->input('role');
+		}
+		
 		echo $this->Form->input('nombres');
 		echo $this->Form->input('apellidos');
 		echo $this->Form->input('cedula');

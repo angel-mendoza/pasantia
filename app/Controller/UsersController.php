@@ -24,8 +24,27 @@ class UsersController extends AppController {
  * @return void
  */
 
-	public function index($id = null) {
+	public function index() {
 		$role = $this->Auth->user('role'); 
+		$id = $this->Auth->user('id'); 
+
+		if ($this->User->exists($id)) {
+			if ($role=='admin') {
+				$this->User->recursive = 0;
+				$this->set('users', $this->Paginator->paginate());
+			}
+			if ($role=='contribuyente') {
+				$this->redirect(array('controller' => 'users' , 'action' => 'view'."/".$id));
+			}
+		}else{
+			throw new NotFoundException(__('Invalid user'));
+		}
+
+
+
+
+
+/*		$role = $this->Auth->user('role'); 
 		$id = $this->Auth->user('id'); 
 
 		if ($role == "admin"){
@@ -33,16 +52,14 @@ class UsersController extends AppController {
 			$this->set('users', $this->Paginator->paginate());
 		}else{
 			//if (!$this->User->exists($id)) {
-			//	throw new NotFoundException(__('Invalid user'));
+			//	
 			//}
 			
 			return $this->redirect(array('controller' => 'users' , 'action' => 'view'."/".$id));
 			//$options = array('conditions' => array('User.' . $this->User->primaryKey => $id));
 			//$this->set('user', $this->User->find('first', $options));
 			
-		}
-		//$this->User->recursive = 0;
-		//$this->set('users', $this->Paginator->paginate());
+		}*/
 	}
 
 
@@ -65,17 +82,17 @@ class UsersController extends AppController {
 		if (!$this->User->exists($id)) {
 			throw new NotFoundException(__('Invalid user'));
 		}
+
 		$idUsuario = $this->Auth->user('id');
-		if($idUsuario != $id){
-			$id = $this->Auth->user('id'); 
-			//throw new NotFoundException(__('Invalid user'));
-			return $this->redirect(array('controller' => 'users' , 'action' => 'view'."/".$id));
+		$role = $this->Auth->user('role'); 
+
+		if ($role == 'contribuyente') {
+			if($idUsuario != $id){
+				$id = $this->Auth->user('id'); 
+				return $this->redirect(array('controller' => 'users' , 'action' => 'view'."/".$id));
+			}
 		}
-		
-		//if (!$this->User->exists($id)) {
-		//	throw new NotFoundException(__('Invalid user'));
-		//}
-		
+
 		$options = array('conditions' => array('User.' . $this->User->primaryKey => $id));
 		$this->set('user', $this->User->find('first', $options));
 	}
@@ -95,6 +112,7 @@ class UsersController extends AppController {
  * @return void
  */
 	public function add() {
+
 		if ($this->request->is('post')) {
 			$this->User->create();
 			$this->request->data['User']['role']='contribuyente';
@@ -118,6 +136,18 @@ class UsersController extends AppController {
 		if (!$this->User->exists($id)) {
 			throw new NotFoundException(__('Invalid user'));
 		}
+
+		$idUsuario = $this->Auth->user('id');
+		$role = $this->Auth->user('role'); 
+
+		if ($role == 'contribuyente') {
+			if($idUsuario != $id){
+				$id = $this->Auth->user('id'); 
+				return $this->redirect(array('controller' => 'users' , 'action' => 'edit'."/".$id));
+			}
+		}
+
+
 		if ($this->request->is(array('post', 'put'))) {
 			if ($this->User->save($this->request->data)) {
 				$this->Flash->success(__('The user has been saved.'));
@@ -143,6 +173,16 @@ class UsersController extends AppController {
 		if (!$this->User->exists()) {
 			throw new NotFoundException(__('Invalid user'));
 		}
+		$idUsuario = $this->Auth->user('id');
+		$role = $this->Auth->user('role'); 
+
+		if ($role == 'contribuyente') {
+			if($idUsuario != $id){
+				$id = $this->Auth->user('id'); 
+				return $this->redirect(array('controller' => 'users' , 'action' => 'view'."/".$id));
+			}
+		}
+
 		$this->request->allowMethod('post', 'delete');
 		if ($this->User->delete()) {
 			$this->Flash->success(__('The user has been deleted.'));

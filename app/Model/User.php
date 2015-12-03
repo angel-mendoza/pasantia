@@ -139,4 +139,8 @@ class User extends AppModel {
 		return true;
 	}
 
+	public $virtualFields = array(
+    'name' => 'CONCAT(User.nombres, " ", User.apellidos)'
+);
+
 }

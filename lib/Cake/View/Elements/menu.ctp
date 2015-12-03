@@ -13,7 +13,10 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="users"> <?php echo $current_user['nombres']." ".$current_user['apellidos'] ?></a>
+        <li class="active"><a> <?php echo $current_user['nombres']." ".$current_user['apellidos'] ?></a>
+        </li>
+        <li>
+      <?php echo $this->Html->link(__('usuario'), array('controller' => 'users' , 'action' => 'index')); ?>
         </li>
         <li>
 			<?php echo $this->Html->link(__('Inmueble'), array('controller' => 'inmuebles' , 'action' => 'index')); ?>
