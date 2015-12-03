@@ -13,17 +13,47 @@ class UsersController extends AppController {
  *
  * @var array
  */
-	public $components = array('Paginator');
+
+	public $helpers = array('Time');
+
+	public $components = array('Paginator', 'Flash', 'Session');
 
 /**
  * index method
  *
  * @return void
  */
+
+	public function index($id = null) {
+		$role = $this->Auth->user('role'); 
+		$id = $this->Auth->user('id'); 
+		if ($role == "admin"){
+			$this->User->recursive = 0;
+			$this->set('users', $this->Paginator->paginate());
+		
+				
+			
+		}else{
+			//if (!$this->User->exists($id)) {
+			//	throw new NotFoundException(__('Invalid user'));
+			//}
+			
+			return $this->redirect(array('controller' => 'users' , 'action' => 'view'."/".$id));
+			//$options = array('conditions' => array('User.' . $this->User->primaryKey => $id));
+			//$this->set('user', $this->User->find('first', $options));
+			
+		}
+		//$this->User->recursive = 0;
+		//$this->set('users', $this->Paginator->paginate());
+	}
+
+
+
+/*	metodo index original
 	public function index() {
 		$this->User->recursive = 0;
 		$this->set('users', $this->Paginator->paginate());
-	}
+	}*/
 
 /**
  * view method
@@ -33,12 +63,33 @@ class UsersController extends AppController {
  * @return void
  */
 	public function view($id = null) {
+		
+		if (!$this->User->exists($id)) {
+			throw new NotFoundException(__('Invalid user'));
+		}
+		$idUsuario = $this->Auth->user('id');
+		if($idUsuario != $id){
+			$id = $this->Auth->user('id'); 
+			//throw new NotFoundException(__('Invalid user'));
+			return $this->redirect(array('controller' => 'users' , 'action' => 'view'."/".$id));
+		}
+		
+		//if (!$this->User->exists($id)) {
+		//	throw new NotFoundException(__('Invalid user'));
+		//}
+		
+		$options = array('conditions' => array('User.' . $this->User->primaryKey => $id));
+		$this->set('user', $this->User->find('first', $options));
+	}
+
+/*	funcion view original
+	public function view($id = null) {
 		if (!$this->User->exists($id)) {
 			throw new NotFoundException(__('Invalid user'));
 		}
 		$options = array('conditions' => array('User.' . $this->User->primaryKey => $id));
 		$this->set('user', $this->User->find('first', $options));
-	}
+	}*/
 
 /**
  * add method
@@ -48,8 +99,9 @@ class UsersController extends AppController {
 	public function add() {
 		if ($this->request->is('post')) {
 			$this->User->create();
+			$this->request->data['User']['role']='contribuyente';
 			if ($this->User->save($this->request->data)) {
-				$this->Flash->success(__('The user has been saved.'));
+				$this->Flash->success(__('The user has been saved.' , 'default' , array('class' => 'alert alert-success' )));
 				return $this->redirect(array('action' => 'index'));
 			} else {
 				$this->Flash->error(__('The user could not be saved. Please, try again.'));
@@ -101,4 +153,27 @@ class UsersController extends AppController {
 		}
 		return $this->redirect(array('action' => 'index'));
 	}
+
+	public function beforeFilter() {
+		parent::beforeFilter();
+		// Allow users to register and logout.
+		$this->Auth->allow('add', 'logout');
+	}
+
+
+
+	public function login() {
+		if ($this->request->is('post')) {
+			if ($this->Auth->login()){
+				return $this->redirect($this->Auth->redirectUrl());
+			}
+		$this->Flash->error(__('Usuario o Contraseña Invalida, Intente de nuevo'));
+		//$this->Session->setFlash('usuario o contraseña invalida intente de  nuevo', 'default', array('class' => 'alert alert-success'));
+		}
+	}
+
+	public function logout() {
+		return $this->redirect($this->Auth->logout());
+	}
+
 }

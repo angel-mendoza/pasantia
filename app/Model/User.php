@@ -1,5 +1,7 @@
 <?php
 App::uses('AppModel', 'Model');
+App::uses('BlowfishPasswordHasher', 'Controller/Component/Auth');
+
 /**
  * User Model
  *
@@ -15,13 +17,16 @@ class User extends AppModel {
  */
 	public $validate = array(
 		'username' => array(
-			'notBlank' => array(
-				'rule' => array('notBlank'),
+				'notBlank' => array(
+					'rule' => array('notBlank'),
+				'email' => array(
+					'rule' => array('email'),
 				//'message' => 'Your custom message here',
 				//'allowEmpty' => false,
 				//'required' => false,
 				//'last' => false, // Stop validation after this rule
 				//'on' => 'create', // Limit validation to 'create' or 'update' operations
+				),
 			),
 		),
 		'password' => array(
@@ -35,8 +40,10 @@ class User extends AppModel {
 			),
 		),
 		'role' => array(
-			'notBlank' => array(
-				'rule' => array('notBlank'),
+			'valid' => array(
+			'rule' => array('inList', array('admin', 'contribuyente' , 'funcionario')),
+			'message' => 'Please enter a valid role',
+			'allowEmpty' => false
 				//'message' => 'Your custom message here',
 				//'allowEmpty' => false,
 				//'required' => false,
@@ -88,7 +95,7 @@ class User extends AppModel {
 
 	// The Associations below have been created with all possible keys, those that are not needed can be removed
 
-/**
+	/**
  * hasMany associations
  *
  * @var array
@@ -121,5 +128,15 @@ class User extends AppModel {
 			'counterQuery' => ''
 		)
 	);
+
+	public function beforeSave($options = array()) {
+		if (isset($this->data[$this->alias]['password'])) {
+			$passwordHasher = new BlowfishPasswordHasher();
+			$this->data[$this->alias]['password'] = $passwordHasher->hash(
+			$this->data[$this->alias]['password']
+			);
+		}
+		return true;
+	}
 
 }

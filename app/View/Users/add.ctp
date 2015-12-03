@@ -5,7 +5,10 @@
 	<?php
 		echo $this->Form->input('username');
 		echo $this->Form->input('password');
-		echo $this->Form->input('role');
+		if (isset($current_user) && $current_user['role']=='admin') {
+			echo $this->Form->input('role', array('options' => array('admin' => 'Admin', 'user' => 'user')));	
+		}
+		//echo $this->Form->input('role', array('options' => array('admin' => 'Admin', 'user' => 'user')));
 		echo $this->Form->input('nombres');
 		echo $this->Form->input('apellidos');
 		echo $this->Form->input('cedula');
@@ -21,7 +24,5 @@
 		<li><?php echo $this->Html->link(__('List Users'), array('action' => 'index')); ?></li>
 		<li><?php echo $this->Html->link(__('List Empresas'), array('controller' => 'empresas', 'action' => 'index')); ?> </li>
 		<li><?php echo $this->Html->link(__('New Empresa'), array('controller' => 'empresas', 'action' => 'add')); ?> </li>
-		<li><?php echo $this->Html->link(__('List Requests'), array('controller' => 'requests', 'action' => 'index')); ?> </li>
-		<li><?php echo $this->Html->link(__('New Request'), array('controller' => 'requests', 'action' => 'add')); ?> </li>
 	</ul>
 </div>
