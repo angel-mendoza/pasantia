@@ -4,6 +4,7 @@
 	<thead>
 	<tr>
 			<th><?php echo $this->Paginator->sort('id'); ?></th>
+			<th><?php echo $this->Paginator->sort('user_id'); ?></th>
 			<th><?php echo $this->Paginator->sort('ubicacion'); ?></th>
 			<th><?php echo $this->Paginator->sort('numero'); ?></th>
 			<th><?php echo $this->Paginator->sort('sector'); ?></th>
@@ -18,6 +19,7 @@
 	<?php foreach ($inmuebles as $inmueble): ?>
 	<tr>
 		<td><?php echo h($inmueble['Inmueble']['id']); ?>&nbsp;</td>
+		<td><?php echo h($inmueble['Inmueble']['user_id']); ?>&nbsp;</td>
 		<td><?php echo h($inmueble['Inmueble']['ubicacion']); ?>&nbsp;</td>
 		<td><?php echo h($inmueble['Inmueble']['numero']); ?>&nbsp;</td>
 		<td><?php echo h($inmueble['Inmueble']['sector']); ?>&nbsp;</td>

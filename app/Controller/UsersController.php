@@ -39,27 +39,6 @@ class UsersController extends AppController {
 		}else{
 			throw new NotFoundException(__('Invalid user'));
 		}
-
-
-
-
-
-/*		$role = $this->Auth->user('role'); 
-		$id = $this->Auth->user('id'); 
-
-		if ($role == "admin"){
-			$this->User->recursive = 0;
-			$this->set('users', $this->Paginator->paginate());
-		}else{
-			//if (!$this->User->exists($id)) {
-			//	
-			//}
-			
-			return $this->redirect(array('controller' => 'users' , 'action' => 'view'."/".$id));
-			//$options = array('conditions' => array('User.' . $this->User->primaryKey => $id));
-			//$this->set('user', $this->User->find('first', $options));
-			
-		}*/
 	}
 
 

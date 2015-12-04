@@ -13,16 +13,44 @@ class InmueblesController extends AppController {
  *
  * @var array
  */
-	public $components = array('Paginator');
 
+	public $helpers = array('Time');
+
+	public $components = array('Paginator', 'Flash', 'Session');
 /**
  * index method
  *
  * @return void
  */
-	public function index() {
+/*	public function index() {
+		$role = $this->Auth->user('role'); 
+		$id = $this->Auth->user('id'); 
+		//debug($role);
+		if ($this->User->exists($id)) {
+			# code...
+		}
 		$this->Inmueble->recursive = 0;
 		$this->set('inmuebles', $this->Paginator->paginate());
+	}*/
+
+	public function index() {
+		//debug($inmueble);
+		$role = $this->Auth->user('role'); 
+		$id = $this->Auth->user('id'); 
+
+			if ($role=='admin') {
+				//$this->User->recursive = 0;
+				$this->set('inmuebles', $this->Paginator->paginate());
+			}
+			if ($role=='contribuyente') {
+				//$options = array('conditions' => array('Inmueble.' . $this->Inmueble->primaryKey => $id));
+				$this->set('inmuebles', $this->Inmueble->find('first' /*, $options*/));
+			}
+/*		if ($this->User->exists($id)) {
+			
+		}else{
+			throw new NotFoundException(__('Invalid user'));
+		}*/
 	}
 
 /**

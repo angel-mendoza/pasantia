@@ -3,6 +3,7 @@
 	<fieldset>
 		<legend><?php echo __('Add Inmueble'); ?></legend>
 	<?php
+		echo $this->Form->input('user_id');
 		echo $this->Form->input('ubicacion');
 		echo $this->Form->input('numero');
 		echo $this->Form->input('sector');

@@ -2224,3 +2224,1203 @@ Request URL: /proyecto-pasantia/css/style.css
 Stack Trace:
 #0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2015-12-03 23:55:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-03 23:56:27 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:00:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:00:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:00:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:01:08 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:01:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:01:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:02:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:02:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:02:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:02:41 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:03:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:03:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:07:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:16:56 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [C:\xampp\htdocs\proyecto-pasantia\app\Model\User.php, line 142]
+2015-12-04 00:16:56 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /proyecto-pasantia/inmuebles
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 142)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 142, Array)
+#2 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 142, Array)
+#3 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-04 00:16:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:19:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:20:08 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:20:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:20:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:24:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:25:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:25:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:25:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:30:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:30:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:31:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:32:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:32:41 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:33:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:52:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:52:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 00:53:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:01:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:02:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:02:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:02:12 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:02:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:02:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:12:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:12:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:13:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:13:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:13:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:13:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:19:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:19:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:19:47 Error: Fatal Error (1): Call to a member function exists() on null in [C:\xampp\htdocs\proyecto-pasantia\app\Controller\InmueblesController.php, line 29]
+2015-12-04 01:19:47 Error: [FatalErrorException] Call to a member function exists() on null
+Request URL: /proyecto-pasantia/inmuebles
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 29, Array)
+#2 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 29, Array)
+#3 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-04 01:19:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:20:12 Error: Fatal Error (1): Call to a member function exists() on null in [C:\xampp\htdocs\proyecto-pasantia\app\Controller\InmueblesController.php, line 29]
+2015-12-04 01:20:12 Error: [FatalErrorException] Call to a member function exists() on null
+Request URL: /proyecto-pasantia/inmuebles
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 29, Array)
+#2 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 29, Array)
+#3 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-04 01:20:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:21:24 Error: Fatal Error (1): Call to a member function exists() on null in [C:\xampp\htdocs\proyecto-pasantia\app\Controller\InmueblesController.php, line 29]
+2015-12-04 01:21:24 Error: [FatalErrorException] Call to a member function exists() on null
+Request URL: /proyecto-pasantia/inmuebles
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 29, Array)
+#2 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 29, Array)
+#3 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-04 01:21:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:22:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:24:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:24:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:24:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:25:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:44:50 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\xampp\htdocs\proyecto-pasantia\app\Controller\InmueblesController.php, line 44]
+2015-12-04 01:44:50 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /proyecto-pasantia/inmuebles
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 44)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 44, Array)
+#2 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 44, Array)
+#3 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-04 01:44:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:45:42 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\xampp\htdocs\proyecto-pasantia\app\Controller\InmueblesController.php, line 44]
+2015-12-04 01:45:42 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /proyecto-pasantia/inmuebles
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 44)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 44, Array)
+#2 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 44, Array)
+#3 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-04 01:45:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:46:07 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\xampp\htdocs\proyecto-pasantia\app\Controller\InmueblesController.php, line 45]
+2015-12-04 01:46:07 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /proyecto-pasantia/inmuebles
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#2 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#3 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-04 01:46:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:46:45 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\xampp\htdocs\proyecto-pasantia\app\Controller\InmueblesController.php, line 45]
+2015-12-04 01:46:45 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /proyecto-pasantia/inmuebles
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#2 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#3 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-04 01:46:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:47:10 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\xampp\htdocs\proyecto-pasantia\app\Controller\InmueblesController.php, line 45]
+2015-12-04 01:47:10 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /proyecto-pasantia/inmuebles
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#2 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#3 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-04 01:47:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:48:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:48:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:48:50 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\xampp\htdocs\proyecto-pasantia\app\Controller\InmueblesController.php, line 45]
+2015-12-04 01:48:50 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /proyecto-pasantia/inmuebles
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#2 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#3 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-04 01:48:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:50:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 01:50:04 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\xampp\htdocs\proyecto-pasantia\app\Controller\InmueblesController.php, line 45]
+2015-12-04 01:50:04 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /proyecto-pasantia/inmuebles
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#2 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#3 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-04 01:50:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:19:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:19:28 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\xampp\htdocs\proyecto-pasantia\app\Controller\InmueblesController.php, line 45]
+2015-12-04 02:19:28 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /proyecto-pasantia/inmuebles
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#2 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#3 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-04 02:19:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:22:39 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\xampp\htdocs\proyecto-pasantia\app\Controller\InmueblesController.php, line 45]
+2015-12-04 02:22:39 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /proyecto-pasantia/inmuebles
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#2 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#3 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-04 02:22:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:22:43 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\xampp\htdocs\proyecto-pasantia\app\Controller\InmueblesController.php, line 45]
+2015-12-04 02:22:43 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /proyecto-pasantia/inmuebles
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#2 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#3 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-04 02:22:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:23:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:23:06 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\xampp\htdocs\proyecto-pasantia\app\Controller\InmueblesController.php, line 45]
+2015-12-04 02:23:06 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /proyecto-pasantia/inmuebles
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#2 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#3 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-04 02:23:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:25:05 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\xampp\htdocs\proyecto-pasantia\app\Controller\InmueblesController.php, line 45]
+2015-12-04 02:25:05 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /proyecto-pasantia/inmuebles
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#2 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#3 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-04 02:25:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:28:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:28:33 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\xampp\htdocs\proyecto-pasantia\app\Controller\InmueblesController.php, line 45]
+2015-12-04 02:28:33 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /proyecto-pasantia/inmuebles
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#2 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#3 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-04 02:28:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:38:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:38:15 Error: Fatal Error (1): Call to a member function exists() on null in [C:\xampp\htdocs\proyecto-pasantia\app\Controller\InmueblesController.php, line 38]
+2015-12-04 02:38:15 Error: [FatalErrorException] Call to a member function exists() on null
+Request URL: /proyecto-pasantia/inmuebles
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 38, Array)
+#2 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 38, Array)
+#3 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-04 02:38:15 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:39:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:39:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:40:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:40:09 Error: Fatal Error (1): Call to a member function exists() on null in [C:\xampp\htdocs\proyecto-pasantia\app\Controller\InmueblesController.php, line 38]
+2015-12-04 02:40:09 Error: [FatalErrorException] Call to a member function exists() on null
+Request URL: /proyecto-pasantia/inmuebles
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 38, Array)
+#2 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 38, Array)
+#3 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-04 02:40:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:40:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:40:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:40:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:40:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:42:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:43:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:43:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:43:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:43:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:44:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:46:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:47:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:53:07 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\xampp\htdocs\proyecto-pasantia\app\View\Inmuebles\index.ctp, line 22]
+2015-12-04 02:53:07 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+Request URL: /proyecto-pasantia/inmuebles
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 22)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 22, Array)
+#2 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 22, Array)
+#3 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-04 02:53:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:53:59 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\xampp\htdocs\proyecto-pasantia\app\View\Inmuebles\index.ctp, line 22]
+2015-12-04 02:53:59 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+Request URL: /proyecto-pasantia/inmuebles
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 22)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 22, Array)
+#2 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 22, Array)
+#3 C:\xampp\htdocs\proyecto-pasantia\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-04 02:53:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 02:54:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 03:18:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 03:18:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 03:18:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 03:19:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 03:19:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 03:19:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 03:19:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 03:19:41 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 03:32:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 03:33:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 03:33:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 03:33:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 03:49:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 03:49:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 03:52:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /proyecto-pasantia/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\proyecto-pasantia\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
