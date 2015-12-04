@@ -1,6 +1,5 @@
 <div class="inmuebles index">
-<?php debug($etc);
-
+<?php debug($current_user['role']);
 exit();
 
 ?>

@@ -43,8 +43,12 @@ class InmueblesController extends AppController {
 				$this->set('inmuebles', $this->Paginator->paginate());
 			}
 			if ($role=='contribuyente') {
-				//$options = array('conditions' => array('Inmueble.' . $this->Inmueble->primaryKey => $id));
-				$this->set('inmuebles', $this->Inmueble->find('first' /*, $options*/));
+
+				$options = array('conditions' => array('Inmueble.user_id' => $id));
+				$variable = $this->Inmueble->find('first', $options);
+				$this->set('etc', $variable);
+
+				//echo $variable['user']['id'];
 			}
 /*		if ($this->User->exists($id)) {
 			
